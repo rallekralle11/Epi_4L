@@ -6,7 +6,7 @@ Named after the Epipactis genus of orchids. The flower of one appears on the boa
 
 With such "amazing" features as:
 
-USB power and data line ESD protection.
+USB power and data line ESD protection as well as power filtration and a fuse.
 
 Crenellated pins.
 
