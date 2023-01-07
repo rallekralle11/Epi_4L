@@ -6,7 +6,7 @@ Named after the Epipactis genus or orchids. The flower of one appears on the boa
 
 With such "amazing" features as:
 
-Data line ESD protection taken from the official A. micro.
+USB power and data line ESD protection.
 
 Crenellated pins.
 
@@ -17,8 +17,6 @@ USB-C connector sunk into the board, and slighly portruding from the end for pan
 1,27mm pin spacing.
 
 Extra pins broken out.
-
-Way too many hours routing for my sanity, and i doubt it's optimal(i am a beginner).
 
 Holes where M2 bolts can be used to hold it in place.
 
