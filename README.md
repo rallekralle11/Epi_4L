@@ -27,7 +27,7 @@ Includes some custom footprints with 3D models.
 
 ![pinout](pinout_git.png)
 
-![comp](comparison.png)
+![comp](comparison2.png)
 Size comparisons.
 
 Licensed under CERN-OHL-P v2
