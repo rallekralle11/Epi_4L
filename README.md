@@ -24,7 +24,7 @@ No rx/tx/power LEDs. Only one on pin 13 for testing.
 
 Includes some custom footprints with 3D models.
 
-![pinout](pinout_trans.png)
+![pinout](pinout_git.png)
 
 ![comp](comparison.png)
 Size comparisons.
