@@ -1,4 +1,4 @@
-21107253394074757
+21110600338226016
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52493,6 +52493,13 @@ DIY
 2
 2
 DIY
+GT-TC025D
+
+
+0
+4
+2
+DIY
 Ki
 
 
@@ -52548,6 +52555,13 @@ USB-C MC-314C-4P16
 0
 18
 13
+DIY
+USB-C MC-314C-4P16_V2
+
+
+0
+16
+11
 DIY
 USB_A_PCB_Traces
 
