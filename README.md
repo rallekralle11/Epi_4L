@@ -1,5 +1,5 @@
 # Epi
-# This thing is about to get launched on [Crowd Supply](https://www.crowdsupply.com/ping-hobbyelektronik/epi-32u4)
+# This thing is about to get launched on Crowd Supply
 
 Named after the Epipactis genus of orchids. The flower of one appears on the board.
 
