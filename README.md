@@ -5,6 +5,8 @@ Named after the Epipactis genus of orchids. The flower of one appears on the boa
 
 ![board](board3.png)
 
+Data sheet: https://ping-el.se/wp-content/uploads/2023/10/datasheet.pdf
+
 With such "amazing" features as:
 
 USB power and data line ESD protection as well as power filtration and a fuse.
