@@ -6,6 +6,7 @@ Named after the Epipactis genus of orchids. The flower of one appears on the boa
 ![board](board3.png)
 
 Data sheet: https://ping-el.se/wp-content/uploads/2023/10/datasheet.pdf
+Kicad footprints: https://github.com/rallekralle11/kicad-lib
 
 With such "amazing" features as:
 
